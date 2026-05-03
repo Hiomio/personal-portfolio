@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/Rosie_posie/",
 
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view"
+    " "
 };
